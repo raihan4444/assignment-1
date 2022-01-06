@@ -1,12 +1,16 @@
 body{
     font-family: 'Poppins', sans-serif;
      margin: 0;
+     
 }
 span{
    color: rgb(238, 146, 104);
 }
-h1{
+.style{
     font-size: 50px;
+    box-shadow: 5px 5px 5px 5px  #d8d6d6;
+    border-radius: 20px;
+    padding: 20px 20px 20px 20px;
 }
 .half-width{
     width: 50%;
@@ -137,6 +141,6 @@ h1{
 
 footer{
     background-color: black;
-    font: 700;
+    font: 1200;
     text-align: center;
 }
