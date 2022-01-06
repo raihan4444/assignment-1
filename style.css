@@ -1,0 +1,142 @@
+body{
+    font-family: 'Poppins', sans-serif;
+     margin: 0;
+}
+span{
+   color: rgb(238, 146, 104);
+}
+h1{
+    font-size: 50px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 30px;
+}
+.half-width img{
+    width: 60%;
+    padding-left: 2%;
+}
+.flex-container{
+    display: flex; 
+    margin-bottom: 150px ;
+    
+   
+}
+.style-btn{
+    text-decoration: none;
+    border-radius: 5px;
+    background: linear-gradient(rgb(243, 167, 167), rgb(231, 175, 224));
+    color: rgb(255, 255, 255);
+   
+    padding: 10px 40px;
+    font-weight: 700;
+}
+
+/* second section css */
+.heading{
+    text-align: center;
+}
+#experience-area{
+        display: flex;
+        margin: 60px 20px 10px;
+    
+      
+}
+.card img{
+    height: 40%;
+}
+.card{
+    background:linear-gradient(rgb(236, 193, 193) , white);
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 30px;
+    
+}
+
+.card-1 img{
+    height: 40%;
+}
+.card-1{
+    background:linear-gradient(rgb(241, 243, 152) , white);
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 30px;
+    
+}
+
+.card-2 img{
+    height: 40%;
+}
+.card-2{
+    background:linear-gradient(rgb(236, 214, 193) , white);
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 30px;
+    
+}
+
+/* third section css */
+.coding img{
+    width: 70%;
+}
+.develop-zone{
+    padding-bottom: 20px;
+    padding-left: 70px;
+}
+ .flex-container-2{
+    padding-top: 40px;
+     display: flex;
+     margin-bottom: 0px;
+     background-image: url(images/shapes/shape-1.png) ;
+    background-repeat: no-repeat;
+    background-position: left;
+
+
+}
+/* fourth section */
+.flex-container-3{
+    display: flex;
+    margin-bottom: 0px;
+    background-image: url(images/shapes/shape-1.png) ;
+   background-repeat: no-repeat;
+   background-position:right;
+   padding-top: 40px;
+
+}
+
+/* fifth section */
+
+.map{
+    width: 70%
+   
+}
+
+.flex-container-4{
+    display: flex;
+    margin-bottom: 0px;
+  
+   background-repeat: no-repeat;
+   background-position:right;
+   padding-top: 40px;
+}
+.email{
+    text-decoration: none;
+    color: rgb(113, 182, 243);
+    font-weight: 700;
+}
+.email:hover{
+    color: rgb(255, 127, 138);
+}
+
+
+footer{
+    background-color: black;
+    font: 700;
+    text-align: center;
+}
